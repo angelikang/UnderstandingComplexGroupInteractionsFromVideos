@@ -1,0 +1,12 @@
+openpose*
+run-result*
+student-faces
+data
+models_old
+videos*
+*.log
+*.out
+.mypy_cache
+models
+__pycache__
+*.pyc
